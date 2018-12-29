@@ -1,2 +1,2 @@
 # gebertdominik
-Personal website on github pages
+Personal website available on https://gebertdominik.github.io/
