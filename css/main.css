@@ -69,14 +69,12 @@ a:after {
 
 /* Header Wrap */
 .header {
-  background: #393e46;
   /*
   background: url(../images/header-bg.jpg) no-repeat center top;
   */
   padding-top:140px;
   text-align:center;
-  background-attachment: relative;
-  background-position: center center;
+  background: #393e46 relative center center;
   min-height: 500px;
   width: 100%;
   
@@ -143,12 +141,14 @@ a:after {
   font-weight: 700;
 }
 
-/* social icons: */
-.footer i {
-  padding-right: 8px;
-  /*color: #1abc9c;*/
+.social-icons{
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
+.social-icons a {
+  padding:10px;
+}
 /* Global Values */
 
 .desc {
