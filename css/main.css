@@ -69,12 +69,14 @@ a:after {
 
 /* Header Wrap */
 .header {
+  background: #393e46;
   /*
   background: url(../images/header-bg.jpg) no-repeat center top;
   */
   padding-top:140px;
   text-align:center;
-  background: #393e46 relative center center;
+  background-attachment: relative;
+  background-position: center center;
   min-height: 500px;
   width: 100%;
   
